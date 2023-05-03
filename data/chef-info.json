@@ -8,147 +8,317 @@
         "numRecipes": 30,
         "yearsExperience": 10,
         "ratings": 4.8,
-        "recipes": {
-            "name": "Spaghetti Bolognese",
-            "ingredients": [
-                "spaghetti",
-                "ground beef",
-                "canned tomatoes",
-                "onion",
-                "garlic",
-                "olive oil",
-                "salt",
-                "pepper",
-                "parmesan cheese"
-            ]
-        }
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Eggs",
+                    "Pancetta or guanciale",
+                    "Parmesan cheese",
+                    "Garlic",
+                    "Salt",
+                    "Black pepper"
+                ]
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Mozzarella cheese",
+                    "Fresh basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ]
+            },
+            {
+                "name": "Pesto Genovese",
+                "ingredients": [
+                    "Basil leaves",
+                    "Garlic",
+                    "Pine nuts",
+                    "Parmesan cheese",
+                    "Extra-virgin olive oil",
+                    "Salt",
+                    "Black pepper"
+                ]
+            }
+        ]
     },
     {
         "id": 2,
         "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "chefName": "Michael Johnson",
-        "description": "David Chang is a Korean-American chef and restaurateur. He is known for his innovative take on Asian cuisine and his popular restaurant chain, Momofuku.",
+        "description": "Michael Johnson is a Korean-American chef and restaurateur. He is known for his innovative take on Asian cuisine and his popular restaurant chain, Momofuku.",
         "likes": 4000,
         "numRecipes": 20,
         "yearsExperience": 15,
         "ratings": 4.6,
-        "recipes": {
-            "name": "Chicken Stir-Fry",
-            "ingredients": [
-                "chicken breast",
-                "broccoli",
-                "carrots",
-                "red bell pepper",
-                "onion",
-                "garlic",
-                "soy sauce",
-                "rice vinegar",
-                "sesame oil",
-                "cornstarch",
-                "salt",
-                "pepper"
-            ]
-        }
+        "recipes": [
+            {
+                "name": "Pesto alla Siciliana",
+                "ingredients": [
+                    "Tomatoes",
+                    "Basil",
+                    "Pine nuts",
+                    "Garlic",
+                    "Parmesan cheese",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ]
+            },
+            {
+                "name": "Risotto ai Funghi Porcini",
+                "ingredients": [
+                    "Arborio rice",
+                    "Dried porcini mushrooms",
+                    "Onion",
+                    "Garlic",
+                    "Parmesan cheese",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Vegetable or chicken broth"
+                ]
+            },
+            {
+                "name": "Lasagne alla Bolognese",
+                "ingredients": [
+                    "Lasagne sheets",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic",
+                    "Carrot",
+                    "Celery",
+                    "Milk",
+                    "Parmesan cheese",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ]
+            }
+        ]
     },
     {
         "id": 3,
         "chefPicture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefName": "Maria Rodriguez",
-        "description": "Gordon Ramsay is a British celebrity chef and television personality. He has been awarded multiple Michelin stars for his culinary skills and has appeared in several popular cooking shows.",
+        "description": "Maria Rodriguez is a British celebrity chef and television personality. He has been awarded multiple Michelin stars for his culinary skills and has appeared in several popular cooking shows.",
         "likes": 8000,
         "numRecipes": 50,
         "yearsExperience": 30,
         "ratings": 4.9,
-        "recipes": {
-            "name": "Banana Pancakes",
-            "ingredients": [
-                "all-purpose flour",
-                "baking powder",
-                "salt",
-                "sugar",
-                "milk",
-                "egg",
-                "banana",
-                "butter",
-                "maple syrup"
-            ]
-        }
+        "recipes": [
+            {
+                "name": "Bruschetta al Pomodoro",
+                "ingredients": [
+                    "Tomatoes",
+                    "Basil",
+                    "Garlic",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Bread"
+                ]
+            },
+            {
+                "name": "Osso Buco alla Milanese",
+                "ingredients": [
+                    "Veal shanks",
+                    "Onion",
+                    "Carrot",
+                    "Celery",
+                    "Garlic",
+                    "Tomato paste",
+                    "White wine",
+                    "Beef broth",
+                    "Lemon zest",
+                    "Parsley",
+                    "Salt",
+                    "Pepper",
+                    "Flour"
+                ]
+            },
+            {
+                "name": "Tiramisu",
+                "ingredients": [
+                    "Eggs",
+                    "Sugar",
+                    "Mascarpone cheese",
+                    "Ladyfingers",
+                    "Espresso",
+                    "Cocoa powder"
+                ]
+            }
+        ]
     },
     {
         "id": 4,
         "chefPicture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "chefName": "John Williams",
+        "chefName": "Ina Garten",
         "description": "Ina Garten is an American author, chef, and television personality. She is known for her approachable, comforting recipes and her popular show, Barefoot Contessa.",
         "likes": 6000,
         "numRecipes": 40,
         "yearsExperience": 25,
         "ratings": 4.7,
-        "recipes": {
-            "name": "Greek Salad",
-            "ingredients": [
-                "romaine lettuce",
-                "cucumbers",
-                "tomatoes",
-                "red onion",
-                "feta cheese",
-                "kalamata olives",
-                "lemon",
-                "olive oil",
-                "salt",
-                "pepper"
-            ]
-        }
+        "recipes": [
+            {
+                "name": "Spaghetti alle Vongole",
+                "ingredients": [
+                    "Spaghetti",
+                    "Clams",
+                    "Garlic",
+                    "Red pepper flakes",
+                    "White wine",
+                    "Olive oil",
+                    "Parsley",
+                    "Lemon",
+                    "Salt",
+                    "Pepper"
+                ]
+            },
+            {
+                "name": "Osso Buco alla Milanese",
+                "ingredients": [
+                    "Veal shanks",
+                    "Onion",
+                    "Carrot",
+                    "Celery",
+                    "Garlic",
+                    "Tomato paste",
+                    "Chicken or beef broth",
+                    "White wine",
+                    "Bay leaves",
+                    "Thyme",
+                    "Orange zest",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ]
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Fresh mozzarella cheese",
+                    "Basil leaves",
+                    "Extra-virgin olive oil",
+                    "Balsamic vinegar",
+                    "Salt",
+                    "Pepper"
+                ]
+            }
+        ]
     },
     {
         "id": 5,
         "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "chefName": "Emily Davis",
-        "description": "Jamie Oliver is a British chef and restaurateur. He is known for his focus on healthy, affordable food and his activism around food-related issues.",
+        "description": "Emily Davis is a British chef and restaurateur. He is known for his focus on healthy, affordable food and his activism around food-related issues.",
         "likes": 7000,
         "numRecipes": 35,
         "yearsExperience": 20,
         "ratings": 4.5,
-        "recipes": {
-            "name": "Chocolate Chip Cookies",
-            "ingredients": [
-                "all-purpose flour",
-                "baking soda",
-                "salt",
-                "unsalted butter",
-                "brown sugar",
-                "granulated sugar",
-                "eggs",
-                "vanilla extract",
-                "semisweet chocolate chips"
-            ]
-        }
+        "recipes": [
+            {
+                "name": "Pesto alla Siciliana",
+                "ingredients": [
+                    "Tomatoes",
+                    "Basil",
+                    "Pine nuts",
+                    "Garlic",
+                    "Parmesan cheese",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ]
+            },
+            {
+                "name": "Risotto ai Funghi Porcini",
+                "ingredients": [
+                    "Arborio rice",
+                    "Dried porcini mushrooms",
+                    "Onion",
+                    "Garlic",
+                    "Parmesan cheese",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper",
+                    "Vegetable or chicken broth"
+                ]
+            },
+            {
+                "name": "Lasagne alla Bolognese",
+                "ingredients": [
+                    "Lasagne sheets",
+                    "Ground beef",
+                    "Tomato sauce",
+                    "Onion",
+                    "Garlic",
+                    "Carrot",
+                    "Celery",
+                    "Milk",
+                    "Parmesan cheese",
+                    "Butter",
+                    "Olive oil",
+                    "Salt",
+                    "Pepper"
+                ]
+            }
+        ]
     },
     {
         "id": 6,
         "chefPicture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "chefName": "David Brown",
-        "description": "Alice Waters is a pioneer of the farm-to-table movement and the owner of the world-renowned restaurant Chez Panisse in Berkeley, California.",
+        "description": "David Brown is a pioneer of the farm-to-table movement and the owner of the world-renowned restaurant Chez Panisse in Berkeley, California.",
         "likes": 6000,
         "numRecipes": 40,
         "yearsExperience": 50,
         "ratings": 4.9,
-        "recipes": 
-        {
-          "name": "Classic Lasagna",
-          "ingredients": [
-            "lasagna noodles",
-            "ground beef",
-            "tomato sauce",
-            "ricotta cheese",
-            "mozzarella cheese",
-            "parmesan cheese",
-            "onion",
-            "garlic",
-            "olive oil",
-            "dried basil",
-            "dried oregano",
-            "salt",
-            "black pepper"
-          ]}
+        "recipes": [
+            {
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Eggs",
+                    "Pancetta or guanciale",
+                    "Parmesan cheese",
+                    "Garlic",
+                    "Salt",
+                    "Black pepper"
+                ]
+            },
+            {
+                "name": "Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Mozzarella cheese",
+                    "Fresh basil leaves",
+                    "Olive oil",
+                    "Salt"
+                ]
+            },
+            {
+                "name": "Pesto Genovese",
+                "ingredients": [
+                    "Basil leaves",
+                    "Garlic",
+                    "Pine nuts",
+                    "Parmesan cheese",
+                    "Extra-virgin olive oil",
+                    "Salt",
+                    "Black pepper"
+                ]
+            }
+        ]
     }
 ]
