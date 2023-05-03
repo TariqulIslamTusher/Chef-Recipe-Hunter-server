@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Shamantah Smith",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 68
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Michael Johnson",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 45
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Maria Rodriguez",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 92
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "John Williams",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 32
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "chefName": "Emily Davis",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 58
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "chefName": "David Brown",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 112
+    }
+]
