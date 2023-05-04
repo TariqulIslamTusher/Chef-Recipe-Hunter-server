@@ -6,7 +6,7 @@ const cors = require('cors')
 app.use(cors())
 
 app.get('/', (req, res)=>{
-    res.send('Dont worry')
+    res.send('Server site of the chefs credentials')
 })
 
 const chefInfo = require('./data/chef-info.json')
