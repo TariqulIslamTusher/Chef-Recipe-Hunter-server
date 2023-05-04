@@ -11,6 +11,7 @@
         "recipes": [
             {
                 "name": "Spaghetti Carbonara",
+                "imgRec": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Spaghetti",
                     "Eggs",
@@ -23,6 +24,7 @@
             },
             {
                 "name": "Margherita Pizza",
+                "imgRec": "https://images.pexels.com/photos/1109197/pexels-photo-1109197.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Pizza dough",
                     "Tomato sauce",
@@ -34,6 +36,7 @@
             },
             {
                 "name": "Pesto Genovese",
+                "imgRec": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Basil leaves",
                     "Garlic",
@@ -58,6 +61,7 @@
         "recipes": [
             {
                 "name": "Pesto alla Siciliana",
+                "imgRec": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Tomatoes",
                     "Basil",
@@ -71,14 +75,14 @@
             },
             {
                 "name": "Risotto ai Funghi Porcini",
+                "imgRec": "https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Arborio rice",
                     "Dried porcini mushrooms",
                     "Onion",
                     "Garlic",
                     "Parmesan cheese",
-                    "Butter",
-                    "Olive oil",
+          
                     "Salt",
                     "Pepper",
                     "Vegetable or chicken broth"
@@ -86,6 +90,7 @@
             },
             {
                 "name": "Lasagne alla Bolognese",
+                "imgRec": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Lasagne sheets",
                     "Ground beef",
@@ -93,11 +98,8 @@
                     "Onion",
                     "Garlic",
                     "Carrot",
-                    "Celery",
-                    "Milk",
-                    "Parmesan cheese",
-                    "Butter",
-                    "Olive oil",
+                    
+                  
                     "Salt",
                     "Pepper"
                 ]
@@ -116,6 +118,7 @@
         "recipes": [
             {
                 "name": "Bruschetta al Pomodoro",
+                "imgRec": "https://images.pexels.com/photos/604969/pexels-photo-604969.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Tomatoes",
                     "Basil",
@@ -128,13 +131,11 @@
             },
             {
                 "name": "Osso Buco alla Milanese",
+                "imgRec": "https://images.pexels.com/photos/3789885/pexels-photo-3789885.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Veal shanks",
                     "Onion",
-                    "Carrot",
-                    "Celery",
-                    "Garlic",
-                    "Tomato paste",
+                   
                     "White wine",
                     "Beef broth",
                     "Lemon zest",
@@ -146,6 +147,7 @@
             },
             {
                 "name": "Tiramisu",
+                "imgRec": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Eggs",
                     "Sugar",
@@ -169,6 +171,7 @@
         "recipes": [
             {
                 "name": "Spaghetti alle Vongole",
+                "imgRec": "https://images.pexels.com/photos/2955819/pexels-photo-2955819.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Spaghetti",
                     "Clams",
@@ -176,14 +179,14 @@
                     "Red pepper flakes",
                     "White wine",
                     "Olive oil",
-                    "Parsley",
-                    "Lemon",
+           
                     "Salt",
                     "Pepper"
                 ]
             },
             {
                 "name": "Osso Buco alla Milanese",
+                "imgRec": "https://images.pexels.com/photos/1633525/pexels-photo-1633525.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Veal shanks",
                     "Onion",
@@ -191,19 +194,14 @@
                     "Celery",
                     "Garlic",
                     "Tomato paste",
-                    "Chicken or beef broth",
-                    "White wine",
-                    "Bay leaves",
-                    "Thyme",
-                    "Orange zest",
-                    "Butter",
-                    "Olive oil",
+                   
                     "Salt",
                     "Pepper"
                 ]
             },
             {
                 "name": "Caprese Salad",
+                "imgRec": "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Tomatoes",
                     "Fresh mozzarella cheese",
@@ -228,6 +226,7 @@
         "recipes": [
             {
                 "name": "Pesto alla Siciliana",
+                "imgRec": "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Tomatoes",
                     "Basil",
@@ -241,10 +240,11 @@
             },
             {
                 "name": "Risotto ai Funghi Porcini",
+                "imgRec": "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "ingredients": [
                     "Arborio rice",
                     "Dried porcini mushrooms",
-                    "Onion",
+                
                     "Garlic",
                     "Parmesan cheese",
                     "Butter",
@@ -256,6 +256,7 @@
             },
             {
                 "name": "Lasagne alla Bolognese",
+                "imgRec": "https://images.pexels.com/photos/1813505/pexels-photo-1813505.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Lasagne sheets",
                     "Ground beef",
@@ -263,11 +264,6 @@
                     "Onion",
                     "Garlic",
                     "Carrot",
-                    "Celery",
-                    "Milk",
-                    "Parmesan cheese",
-                    "Butter",
-                    "Olive oil",
                     "Salt",
                     "Pepper"
                 ]
@@ -286,6 +282,7 @@
         "recipes": [
             {
                 "name": "Spaghetti Carbonara",
+                "imgRec": "https://images.pexels.com/photos/1813505/pexels-photo-1813505.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Spaghetti",
                     "Eggs",
@@ -298,6 +295,7 @@
             },
             {
                 "name": "Margherita Pizza",
+                "imgRec": "https://images.pexels.com/photos/2679501/pexels-photo-2679501.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Pizza dough",
                     "Tomato sauce",
@@ -309,6 +307,7 @@
             },
             {
                 "name": "Pesto Genovese",
+                "imgRec": "https://images.pexels.com/photos/5769392/pexels-photo-5769392.jpeg?auto=compress&cs=tinysrgb&w=600",
                 "ingredients": [
                     "Basil leaves",
                     "Garlic",
